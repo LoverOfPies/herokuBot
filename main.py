@@ -46,6 +46,4 @@ def main():
     access_token_bot = 'token'
     start_bot(token=access_token_bot)
 
-
-if __name__ == '__main__':
-    main()
+main()
