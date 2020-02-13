@@ -43,7 +43,7 @@ def start_bot(token):
 
 def main():
     # Токен для бота
-    access_token_bot = 'token'
+    access_token_bot = '93585b67f8fc593ffc186a3d4f9a557d70b052eb0cc3aded9ff4b4202cdf49ce570f86cdb069643a86bd4'
     start_bot(token=access_token_bot)
 
 main()
